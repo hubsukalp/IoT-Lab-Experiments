@@ -1,6 +1,6 @@
-# Detailed IoT Lab Experiments (Practical Record Format)
+# IoT Lab Experiments
 
-This repository contains the complete practicals of IoT Lab with objective, components, procedure, sample code, output, and conclusion for each experiment.
+This repository contains the practicals of IoT Lab with objective, components, procedure, sample code, output, and conclusion for each experiment.
 
 ## List of Experiments
 
